@@ -1,4 +1,4 @@
-### 안녕하세연ㅋ.ㅋ 👋
+### Hi👋
 
 <!--
 **orihy97/orihy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
